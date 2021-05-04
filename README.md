@@ -5,5 +5,5 @@ In first activity user is expected to press a "Finish" button to pass on a strin
 and email address. Entered variables will be displayed in main activity after user clicks on "Submit" button. If no variable is passed by the user an "Error"
 message will be displayed in the application.</p>
 
-Code is based on the [The Complete Android 10 & Kotlin Development Masterclass](#https://www.udemy.com/course/android-kotlin-developer/learn/lecture/17999171#overview)
+Code is based on [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/learn/lecture/17999171#overview)
 and for exercise purpose only.
