@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityForResultDemo</string>
+    <string name="finishButtonText">Finish</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="nameTextHint">Enter your name</string>
+    <string name="emailTextHint">Enter your email</string>
+    <string name="firstActivityButtonText">First Activity</string>
+    <string name="secondActivityButtonText">Second Activity</string>
+    <string name="firstActivityResultText">First Activity Result is Success</string>
+</resources>
